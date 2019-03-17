@@ -9,6 +9,7 @@
 # - F:\Softwares\Git\bin\bash.exe --login -i "F:\Coding\Github_repos\My_Learning_Bash\src\demo.sh" [RECOMMENDED w.r.t Unix]
 
 # NOTE: Don't use `git-bash.exe` in place of `sh.exe`
+# References: http://www.gnu.org/software/bash/manual/bash.html#Invoking-Bash
 ##########################################################################
 
 echo Hello, who am I talking to?

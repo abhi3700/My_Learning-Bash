@@ -10,6 +10,7 @@ Learn Bash Scripting
 * [Bash-Handbook](https://github.com/denysdovhan/bash-handbook)
 * [Bash Academy](https://guide.bash.academy/)
 * [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets)
+* Batsh - [Github](https://github.com/BYVoid/Batsh), [Website](https://batsh.org/)
 
 ## Dependencies [USED here]
 * [learnyoubash](https://github.com/denysdovhan/learnyoubash)	- `svn`

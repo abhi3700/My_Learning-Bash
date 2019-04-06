@@ -1,7 +1,10 @@
 #!/bin/bash
 ##########################################################################
+# Invoke shell script in terminal using git 'sh.exe'
+# - Create a shortcut for that file and then change param in properties.
+
 # Ask the user for their name
-# Here, the shell script can be executed by clicking the [shortcut link - `"demo - Shortcut.lnk"`.
+# Here, the shell script can be invoked by clicking the [shortcut link - `"demo - Shortcut.lnk"`.
 # Change the `Target` param in the properties of the shortcut link file.
 # Set Target as = <git-shell-file> --login -i <shell-file> 
 # E.g. (2 ways) 

@@ -1,5 +1,5 @@
 #!/bin/bash
 ##########################################################################
-# move file from one dir to another
+# move specific file types from one dir to another
 ##########################################################################
-mv ../src/file1.md ../dest/
+mv *.{mp3,ogg,wav} ../../destination/folder

@@ -17,3 +17,18 @@ Learn Bash Scripting
 	- create: `svn checkout https://github.com/denysdovhan/learnyoubash/trunk/exercises learnyoubash`
 	- update: `cd learnyoubash` >> `svn update`
 
+## NOTES
+* __No difference b/w these:__
+	- `echo abhijit`
+	- `echo "abhijit"`
+	- `echo 'abhijit'`
+* __spacing sensitive__
+	- `var = 'abhijit'`: ERROR
+	- `var='abhijit'`: CORRECT
+* __String join:__ Don't use '+' sign
+* __Variable__
+	- to declare, don't use `$` symbol.
+	- to use the variable, use `$` symbol.
+* __Quotes__ (single & double):
+	- single:
+	

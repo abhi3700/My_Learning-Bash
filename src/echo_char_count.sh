@@ -1,6 +1,5 @@
 #!/bin/bash
 ##########################################################################
-# prints "hello"
+# counts characters in "abhijit is a good boy"
 ##########################################################################
-
-echo "Hello!"
+echo "abhijit is a good boy" | wc -c
